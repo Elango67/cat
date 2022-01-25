@@ -1,0 +1,90 @@
+.header{
+    background-color: darkcyan;
+    padding:30px;
+}
+.sp{
+    background-image: url(cat.jpg);
+    background-repeat: no-repeat;
+    background-size: 50px;
+    padding: 25px;
+}
+.sp1{
+    margin-left: 60%;
+    background-color: darkgray;
+    padding: 15px;
+}
+.sp2,.sp3{
+    margin-left: 2%;
+    background-color: darkgray;
+    padding: 15px;
+}
+.sp4{
+    margin-left: 2%;
+    background-color: darkgray;
+    padding: 15px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    font-weight: bold;
+}
+body{
+    background-color: #e3e3e9;  
+   
+}
+div.container{
+    background-image: url(cat.jpg); 
+    background-repeat: no-repeat;
+    background-size: 30%;
+    background-position: center;
+    margin-bottom: 4.3%;
+}
+.head{
+     text-align: center;
+    margin-top: 110px;
+    text-decoration-color: black;
+    font-family: monospace;
+}
+.user{
+    border-radius: 30px;
+    border-color: cadetblue;
+    text-align: center;
+    padding: 100px;
+    margin-right: 37%;
+    margin-left: 37%;
+    background-color: #ffffff;
+    opacity: 0.3;
+}
+div.user input,div.user lable{
+     text-align: center;
+    font-weight: bold;
+    color: #000000;
+}
+hr{
+    border: none;   
+    padding: 10px;
+}
+input{
+    border-radius: 25px;
+    border-color: cyan; 
+    text-align: center;
+    padding: 5px;
+    text-decoration-color: brown;
+}
+c2{
+    
+}
+button{
+    border-radius: 25px;
+    border-color: cyan;
+    text-align: center;
+    padding: 5px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20PX;
+}
+footer{
+    background-color: darkcyan;
+    padding:30px;
+}
+.s3{
+    margin-left: 20%;
+}
